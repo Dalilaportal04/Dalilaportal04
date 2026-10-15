@@ -18,7 +18,7 @@ class Dalila:
     extras     = ["Business Administration minor", "AI certificate"]
     experience = ["Akamai Technologies x3", "Imagine Learning Robotify (Dublin)"]
     into       = ["RAG + LLM evaluation", "security", "turning tech into solutions people use"]
-    leading    = ["UF WiCSE Career Development Director", "International Engineering Ambassador"]
+    leading    = ["UF WiCSE Career Development Director"]
 ```
 
 ### Where I've shipped
