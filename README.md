@@ -18,7 +18,7 @@ class Dalila:
     extras     = ["Business Administration minor", "AI certificate"]
     experience = ["Akamai Technologies x3", "Imagine Learning Robotify (Dublin)"]
     into       = ["RAG + LLM evaluation", "security", "turning tech into solutions people use"]
-    leading    = ["UF WiCSE Career Development Director"]
+    leading    = ["UF WiCSE Career Development Director", "International Engineering Ambassador"]
 ```
 
 ### Where I've shipped
@@ -38,7 +38,7 @@ Benchmarked GPT Vision, Google Vision and AWS Rekognition for an interactive mat
 |---|---|
 | **[Image-Caption-Generator](https://github.com/Dalilaportal04/Image-Caption-Generator)** | Accessible captions for SVG images at scale, with Spanish fallback. *Python, OpenAI Batch API* |
 | **[Liquid-Classification](https://github.com/Dalilaportal04/Liquid-Classification)** | Tells beer, wine and oil apart from the sound of pouring. *Python, ML, audio features* |
-| **[WiCSE-Follow-Up-Guide](https://github.com/Dalilaportal04/WiCSE-Follow-Up-Guide)** | Interactive career fair follow up tool for UF WiCSE members. *HTML, CSS, JavaScript* |
+| **[InvestmentPortfolio](https://github.com/Dalilaportal04/InvestmentPortfolio)** | Tracks holdings, returns and asset allocation across stocks and ETFs, with charts over time. *C++* |
 
 ### Toolbox
 
